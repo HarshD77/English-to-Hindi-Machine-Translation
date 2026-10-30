@@ -1,0 +1,7 @@
+The mT5 model checkpoint is not included in this repository because its size
+exceeds GitHub's maximum file-size limit.
+
+The original checkpoint file was:
+model.safetensors
+
+To reproduce the model, run 02_mt5_finetuning.ipynb.
