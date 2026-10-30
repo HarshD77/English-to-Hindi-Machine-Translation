@@ -1,0 +1,5 @@
+Model,Architecture,Adaptation,Tokenizer,Total params (M),Trainable params (M),Train pairs,Epochs,Train time (min),Inference (s),ms / sentence,BLEU,chrF
+Transformer (scratch),Encoder-decoder,Trained from scratch,"SentencePiece BPE, 16k shared",9.6,9.63,49999,18,13.8,9.2,18.5,3.97,24.39
+mT5-small,Encoder-decoder,Full fine-tuning,"SentencePiece unigram, 250k multilingual",300.2,300.18,30000,3,64.4,57.8,115.6,4.13,23.23
+LLaMA-3.2-1B-Instruct,Decoder-only,LoRA fine-tuning (r=16),"Byte-level BPE (tiktoken), 128k",1235.8,11.27,10000,1,7.1,106.2,212.4,10.46,35.02
+Gemma-3-1B-IT,Decoder-only,LoRA fine-tuning (r=16),"SentencePiece BPE, 262k",999.9,13.05,10000,1,19.5,132.2,264.4,13.55,38.99

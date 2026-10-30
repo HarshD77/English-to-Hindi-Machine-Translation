@@ -1,0 +1,14 @@
+{
+  "name": "IIT Bombay English-Hindi Parallel Corpus",
+  "hf_dataset": "cfilt/iitb-english-hindi",
+  "source_link": "https://huggingface.co/datasets/cfilt/iitb-english-hindi",
+  "original_site": "https://www.cfilt.iitb.ac.in/iitb_parallel/",
+  "source_language": "English",
+  "target_language": "Hindi",
+  "seed": 42,
+  "train_pairs": 50000,
+  "val_pairs": 500,
+  "test_pairs": 500,
+  "min_words": 3,
+  "max_words": 50
+}

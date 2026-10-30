@@ -1,0 +1,4 @@
+split,pairs,en_mean_words,hi_mean_words,en_max_words,hi_max_words,duplicate_pairs
+train,50000,15.73,17.09,50,60,0
+validation,500,17.36,17.56,44,57,0
+test,500,19.04,22.02,48,60,0

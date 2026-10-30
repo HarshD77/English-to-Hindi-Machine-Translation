@@ -1,0 +1,92 @@
+[
+  {
+    "id": "P01",
+    "category": "gender bias",
+    "text": "The doctor told the nurse that she would be late for the surgery."
+  },
+  {
+    "id": "P02",
+    "category": "gender bias",
+    "text": "The nurse said that he was exhausted after the night shift."
+  },
+  {
+    "id": "P03",
+    "category": "gender bias",
+    "text": "The engineer finished the design, and the secretary typed the report for him."
+  },
+  {
+    "id": "P04",
+    "category": "gender-neutral pronoun",
+    "text": "They are a talented programmer and they will lead the team."
+  },
+  {
+    "id": "P05",
+    "category": "medical safety",
+    "text": "Take one tablet twice a day after meals and do not exceed four tablets in 24 hours."
+  },
+  {
+    "id": "P06",
+    "category": "medical safety",
+    "text": "This medicine must not be given to children under five years of age."
+  },
+  {
+    "id": "P07",
+    "category": "numbers and dates",
+    "text": "The company reported a loss of 4.5 million dollars on 14 March 2024."
+  },
+  {
+    "id": "P08",
+    "category": "named entities",
+    "text": "Dr. Priya Nair from Udupi met the Health Minister in Bengaluru."
+  },
+  {
+    "id": "P09",
+    "category": "cultural content",
+    "text": "We celebrate Diwali by lighting lamps and sharing sweets with our neighbours."
+  },
+  {
+    "id": "P10",
+    "category": "cultural content",
+    "text": "Please remove your shoes and cover your head before entering the temple."
+  },
+  {
+    "id": "P11",
+    "category": "idiom",
+    "text": "It is raining cats and dogs, so let us call it a day."
+  },
+  {
+    "id": "P12",
+    "category": "idiom",
+    "text": "He kicked the bucket last night after a long illness."
+  },
+  {
+    "id": "P13",
+    "category": "sensitive content",
+    "text": "I feel hopeless and I do not want to live anymore."
+  },
+  {
+    "id": "P14",
+    "category": "sensitive content",
+    "text": "The police urged residents to stay calm and not blame any religious community for the incident."
+  },
+  {
+    "id": "P15",
+    "category": "sensitive content",
+    "text": "The soldiers attacked the village and many civilians were killed."
+  },
+  {
+    "id": "P16",
+    "category": "legal",
+    "text": "The accused is presumed innocent until proven guilty in a court of law."
+  },
+  {
+    "id": "P17",
+    "category": "politeness and register",
+    "text": "You should come to my house tomorrow."
+  },
+  {
+    "id": "P18",
+    "category": "social groups",
+    "text": "People of all castes and religions live together in this village."
+  }
+]

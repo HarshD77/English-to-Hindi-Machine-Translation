@@ -1,0 +1,5 @@
+Model,Method,BLEU,chrF,ms / sentence
+LLaMA-3.2-1B-Instruct,3-shot prompting,8.97,34.04,404.4
+LLaMA-3.2-1B-Instruct,LoRA fine-tuned,10.46,35.02,212.4
+Gemma-3-1B-IT,3-shot prompting,11.71,37.82,748.2
+Gemma-3-1B-IT,LoRA fine-tuned,13.55,38.99,264.4

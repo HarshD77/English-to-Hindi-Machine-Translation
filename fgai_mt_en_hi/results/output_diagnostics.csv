@@ -1,0 +1,6 @@
+,empty output %,not mostly Devanagari %,length ratio (hyp/ref),over-long (>2x ref) %,too short (<0.5x ref) %,repeated 3-grams %,numbers lost or changed %
+Transformer (scratch),0.0,0.0,0.98,0.4,1.8,9.0,69.1
+mT5-small,0.0,0.0,1.11,4.6,1.4,20.2,44.3
+LLaMA-3.2-1B-Instruct,0.0,0.0,1.03,2.6,0.6,3.4,15.5
+Gemma-3-1B-IT,0.0,0.6,1.01,1.0,1.4,1.4,13.4
+Reference,0.0,0.0,1.0,0.0,0.0,0.0,14.4
